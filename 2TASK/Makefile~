@@ -1,0 +1,2 @@
+all:
+	gcc -I/home/dartheil/Desktop/Лунев/2TASK task2.c -o family
